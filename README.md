@@ -1,4 +1,4 @@
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnasirnjs)
+![Linkedin](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnasirnjs)
 
 
 <!--
