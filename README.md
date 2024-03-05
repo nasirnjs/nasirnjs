@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Nasir Uddin</h1>
-<h3 align="center">Empowering Teams with DevOps</h3>
+<h3 align="center">Passionate about empowering teams through DevOps solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirnjs&label=Profile%20views&color=0e75b6&style=flat" alt="nasirnjs" /> </p>
 
-- 🔭 I’m currently working on **DevOps & Cloud**
+- 🔭 I’m currently working on **Currently focused on DevOps & Cloud technologies.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasirnjs](https://github.com/nasirnjs)
 
@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nasirnjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasirnjs/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nasirnjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nasirnjs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
