@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirnjs&label=Profile%20views&color=0e75b6&style=flat" alt="nasirnjs" /> </p>
 
-- 🔭 I’m currently working on **Currently focused on DevOps & Cloud technologies.**
+- 🔭 I’m currently working on **DevOps & Cloud Technologies.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasirnjs](https://github.com/nasirnjs)
 
