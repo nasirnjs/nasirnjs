@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Nasir Uddin</h1>
-<h3 align="center">A passionate DevOps & Cloud Technology from Bangladesh</h3>
+<h3 align="center">Empowering Teams with DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirnjs&label=Profile%20views&color=0e75b6&style=flat" alt="nasirnjs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasirnjs" alt="nasirnjs" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps & Cloud**
 
